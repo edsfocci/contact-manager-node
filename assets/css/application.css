@@ -1,0 +1,31 @@
+body {
+  /* 60px to move the container down and make room for the navigation bar */
+  padding-top: 60px;
+}
+
+a.btn-default {
+  background-color: #d6d6d6;
+  border-color: #d6d6d6;
+}
+
+a.btn-default:hover {
+  background-color: #d6d6d6;
+  border-color: #d6d6d6;
+}
+
+.control-group {
+  margin: 20px 0;
+}
+
+.control-label {
+  display: block;
+}
+
+.form-control {
+  display: inline;
+  width: 250px;
+}
+
+.help-block {
+  display: inline;
+}
